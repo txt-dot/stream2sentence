@@ -16,7 +16,7 @@ This is a Go port of the Python [stream2sentence](https://github.com/KoljaB/stre
 ## Installation
 
 ```bash
-go get stream2sentence
+go get https://github.com/KoljaB/stream2sentence
 ```
 
 ## Quick Start
