@@ -2,8 +2,6 @@
 
 Real-time processing and delivery of sentences from a continuous stream of characters or text chunks, implemented in Go.
 
-This is a Go port of the Python [stream2sentence](https://github.com/KoljaB/stream2sentence) library.
-
 ## Features
 
 - Real-time sentence detection from character streams
