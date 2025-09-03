@@ -14,7 +14,7 @@ Real-time processing and delivery of sentences from a continuous stream of chara
 ## Installation
 
 ```bash
-go get https://github.com/KoljaB/stream2sentence
+go get https://github.com/txt-dot/stream2sentence
 ```
 
 ## Quick Start
