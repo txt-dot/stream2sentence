@@ -1,4 +1,4 @@
-module stream2sentence
+module github.com/txt-dot/stream2sentence
 
 go 1.24
 
